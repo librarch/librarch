@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @librarch
+- 👀 I’m interested in Linux, FOSS, Coding, Hardware
+- 🌱 I’m currently learning Java and Front-end
